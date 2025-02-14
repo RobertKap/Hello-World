@@ -1,4 +1,9 @@
 # Hello-World
 My first repository
-##First Heading
+
+## First Heading
+
 ### Second Heading
+**Let's try some bold**
+
+*WoW*
